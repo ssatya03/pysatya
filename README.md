@@ -1,2 +1,2 @@
 # pysatya
-this is my first679 repository
+this is my first repository
